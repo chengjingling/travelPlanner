@@ -1,20 +1,31 @@
-# Agile-Software-Project
+# Travel Planner
 
-## Project Members
+## About
 
-* **[Me](https://github.com/kheehing)**
-* **[Qi Xuan](https://github.com/jongzzz)**
-* **[Jing Ling](https://github.com/Qixuan-Codes)**
-* **[Gabrielle](https://github.com/Gabrielle-97)**
-* **[Raziq](https://github.com/RaziqAhZiq)**
+This application is an all-in-one travel planning website developed in Node.js. It allows users to book flights, hotels, airbnbs and plan their itineraries all within the same platform. It uses real data by integrating with various APIs from Skyscanner, Booking.com and Airbnb.
 
+Note: This application cannot be run anymore as the API subscriptions have been terminated.
 
-## Image link used
+## Flight Results Page
 
-* **https://unsplash.com/images/travel**
-* **https://pngtree.com**
-* **https://www.cleanpng.com**
+<img src="flightResults.png" width="500">
 
+## Hotel Results Page
 
-## Dataset used
-* **https://www.kaggle.com/datasets/thoudamyoihenba/airports?resource=download**
+<img src="hotelResults.png" width="500">
+
+## Hotel Info Page
+
+<img src="hotelInfo.png" width="500">
+
+## Airbnb Results Page
+
+<img src="airbnbResults.png" width="500">
+
+## Airbnb Info Page
+
+<img src="airbnbInfo.png" width="500">
+
+## Itinerary Page
+
+<img src="itinerary.png" width="500">
